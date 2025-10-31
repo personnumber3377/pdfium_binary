@@ -1,1 +1,2 @@
 fuzzer.zip filter=lfs diff=lfs merge=lfs -text
+shared.zip filter=lfs diff=lfs merge=lfs -text
